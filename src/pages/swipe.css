@@ -1,0 +1,43 @@
+.title {
+    padding-left: 20px;
+}
+
+.song {
+    padding: 30px;
+    background-clip:content-box ;
+    box-shadow: 0 0 0 10px lightblue;
+    color: #D106B9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.player {
+    padding: 10px;
+    background-clip: content-box;
+    box-shadow: 0 0 0 10px #1a26a3;
+}
+
+.vid {
+    padding-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.next {
+    padding: 10px 20px;
+    background-color: #311bf7;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.liked{
+    padding: 10px 20px;
+    background-color: #c229b2;
+    border: none;
+    color: white;
+    justify-content: center;    
+    text-align: center;
+    font-size: 16px;
+}
+

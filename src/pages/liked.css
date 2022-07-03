@@ -1,0 +1,15 @@
+.filled{
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 25px;
+    width: 250px;
+    height: 150px;
+    padding-left: 10px;
+    text-align: center;
+    margin-left: 20px;
+
+}
+
+.lik {
+    padding-left: 20px;
+}

@@ -1,0 +1,14 @@
+.main-footer {
+    background-color: #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+
+.comp {
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
